@@ -1,3 +1,3 @@
 # New-Repo.
-This is my first git repository.
+This is my first Git repository.
 Author - Abhinay Yadav
